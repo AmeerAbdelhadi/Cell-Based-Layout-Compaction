@@ -1,0 +1,827 @@
+4 1000;
+DS 139;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+128 108 
+128 -108 
+0 -108 
+;
+DF;
+DS 94;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+32 108 
+32 -108 
+0 -108 
+;
+DF;
+DS 63;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+64 108 
+64 -108 
+0 -108 
+;
+DF;
+DS 31;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+288 108 
+288 -108 
+0 -108 
+;
+DF;
+DS 35;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+32 108 
+32 -108 
+0 -108 
+;
+DF;
+DS 101;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+32 108 
+32 -108 
+0 -108 
+;
+DF;
+DS 32;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+288 108 
+288 -108 
+0 -108 
+;
+DF;
+DS 132;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+64 108 
+64 -108 
+0 -108 
+;
+DF;
+DS 83;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+48 108 
+48 -108 
+0 -108 
+;
+DF;
+DS 19;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+80 108 
+80 -108 
+0 -108 
+;
+DF;
+DS 150;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+160 108 
+160 -108 
+0 -108 
+;
+DF;
+DS 87;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+96 108 
+96 -108 
+0 -108 
+;
+DF;
+DS 120;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+48 108 
+48 -108 
+0 -108 
+;
+DF;
+DS 12;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+64 108 
+64 -108 
+0 -108 
+;
+DF;
+DS 136;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+48 108 
+48 -108 
+0 -108 
+;
+DF;
+DS 151;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+80 108 
+80 -108 
+0 -108 
+;
+DF;
+DS 156;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+304 108 
+304 -108 
+0 -108 
+;
+DF;
+DS 160;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+384 108 
+384 -108 
+0 -108 
+;
+DF;
+DS 149;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+336 108 
+336 -108 
+0 -108 
+;
+DF;
+DS 55;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+112 108 
+112 -108 
+0 -108 
+;
+DF;
+DS 7;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+112 108 
+112 -108 
+0 -108 
+;
+DF;
+DS 111;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+48 108 
+48 -108 
+0 -108 
+;
+DF;
+DS 128;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+48 108 
+48 -108 
+0 -108 
+;
+DF;
+DS 119;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+48 108 
+48 -108 
+0 -108 
+;
+DF;
+DS 96;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+208 108 
+208 -108 
+0 -108 
+;
+DF;
+DS 27;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+176 108 
+176 -108 
+0 -108 
+;
+DF;
+DS 105;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+592 108 
+592 -108 
+0 -108 
+;
+DF;
+DS 106;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+176 108 
+176 -108 
+0 -108 
+;
+DF;
+DS 165;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+352 108 
+352 -108 
+0 -108 
+;
+DF;
+DS 90;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+304 108 
+304 -108 
+0 -108 
+;
+DF;
+DS 37;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+96 108 
+96 -108 
+0 -108 
+;
+DF;
+DS 164;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+176 108 
+176 -108 
+0 -108 
+;
+DF;
+DS 97;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+112 108 
+112 -108 
+0 -108 
+;
+DF;
+DS 146;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+80 108 
+80 -108 
+0 -108 
+;
+DF;
+DS 168;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+112 108 
+112 -108 
+0 -108 
+;
+DF;
+DS 131;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+32 108 
+32 -108 
+0 -108 
+;
+DF;
+DS 126;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+32 108 
+32 -108 
+0 -108 
+;
+DF;
+DS 29;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+32 108 
+32 -108 
+0 -108 
+;
+DF;
+DS 114;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+128 108 
+128 -108 
+0 -108 
+;
+DF;
+DS 95;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+64 108 
+64 -108 
+0 -108 
+;
+DF;
+DS 25;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+144 108 
+144 -108 
+0 -108 
+;
+DF;
+DS 100;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+32 108 
+32 -108 
+0 -108 
+;
+DF;
+DS 110;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+528 108 
+528 -108 
+0 -108 
+;
+DF;
+DS 137;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+48 108 
+48 -108 
+0 -108 
+;
+DF;
+DS 138;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+48 108 
+48 -108 
+0 -108 
+;
+DF;
+DS 71;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+64 108 
+64 -108 
+0 -108 
+;
+DF;
+DS 79;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+64 108 
+64 -108 
+0 -108 
+;
+DF;
+DS 91;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+64 108 
+64 -108 
+0 -108 
+;
+DF;
+DS 152;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+80 108 
+80 -108 
+0 -108 
+;
+DF;
+DS 133;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+64 108 
+64 -108 
+0 -108 
+;
+DF;
+DS 144;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+48 108 
+48 -108 
+0 -108 
+;
+DF;
+DS 129;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+48 108 
+48 -108 
+0 -108 
+;
+DF;
+DS 115;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+256 108 
+256 -108 
+0 -108 
+;
+DF;
+DS 157;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+96 108 
+96 -108 
+0 -108 
+;
+DF;
+DS 176;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+208 108 
+208 -108 
+0 -108 
+;
+DF;
+DS 121;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+704 108 
+704 -108 
+0 -108 
+;
+DF;
+DS 116;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+592 108 
+592 -108 
+0 -108 
+;
+DF;
+DS 163;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+144 108 
+144 -108 
+0 -108 
+;
+DF;
+DS 174;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+112 108 
+112 -108 
+0 -108 
+;
+DF;
+DS 109;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+704 108 
+704 -108 
+0 -108 
+;
+DF;
+DS 88;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+48 108 
+48 -108 
+0 -108 
+;
+DF;
+DS 162;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+112 108 
+112 -108 
+0 -108 
+;
+DF;
+DS 143;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+64 108 
+64 -108 
+0 -108 
+;
+DF;
+DS 135;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+80 108 
+80 -108 
+0 -108 
+;
+DF;
+DS 99;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+528 108 
+528 -108 
+0 -108 
+;
+DF;
+DS 92;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+80 108 
+80 -108 
+0 -108 
+;
+DF;
+DS 167;
+;
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 108 
+144 108 
+144 -108 
+0 -108 
+;
+DF;
+DS 40;
+;
+C 146 T 1232 756; 
+C 27 MY T 880 1836; 
+C 167 T 768 1620; 
+C 105 T 720 1188; 
+C 27 MY T 832 2268; 
+C 27 T 544 2484; 
+C 92 T 1312 756; 
+C 27 MY T 576 2700 N i108_1; 
+C 27 T 576 2916; 
+C 25 T 0 756; 
+C 27 T 208 756; 
+C 99 T 912 1620; 
+C 29 T 1168 756; 
+C 110 MY T 1056 1836; 
+C 135 MY T 1056 2268; 
+C 111 MY T 1008 2268; 
+C 128 T 720 2484; 
+C 135 T 768 2484; 
+C 135 MY T 800 2700; 
+C 128 MY T 752 2700; 
+C 128 T 752 2916; 
+C 135 T 800 2916; 
+C 143 T 528 1188; 
+C 162 T 720 324; 
+C 168 MY T 720 108 N i14_1; 
+C 88 T 80 1188 N i14_2; 
+C 152 MY T 592 108; 
+C 109 T 816 2052; 
+C 174 T 496 756; 
+C 163 T 608 756; 
+C 116 T 832 324; 
+C 121 MY T 752 540; 
+C 176 T 752 756; 
+C 157 T 1312 1188; 
+C 115 T 128 1188; 
+C 131 T 496 1188 N i15_1; 
+C 132 T 656 324; 
+C 111 MY T 944 3132; 
+C 25 MY T 752 3132; 
+C 129 MY T 896 3132; 
+C 144 T 448 756; 
+C 133 T 960 756; 
+C 152 T 640 1188; 
+C 168 MY T 640 540; 
+C 91 T 704 1620; 
+C 79 MY T 704 1404; 
+C 71 MY T 992 3132; 
+C 146 MY T 560 540; 
+C 138 T 592 1188; 
+C 97 T 960 2484; 
+C 137 T 768 2052; 
+C 110 MY T 800 1404 N i38_1; 
+C 27 MY T 1376 1404; 
+C 100 MY T 768 1404; 
+C 25 T 1024 756; 
+C 95 MY T 768 2268; 
+C 95 T 1072 2484; 
+C 95 MY T 704 2268; 
+C 114 MY T 576 2268; 
+C 126 T 1200 756; 
+C 126 T 416 756; 
+C 29 T 384 756; 
+C 126 T 144 756; 
+C 131 T 176 756; 
+C 168 MY T 832 108; 
+C 146 T 848 2484 N i8_1; 
+C 97 T 384 1188; 
+C 164 MY T 704 1836; 
+C 37 T 672 2052; 
+C 90 T 368 2052; 
+C 165 MY T 944 108; 
+C 165 MY T 1072 972; 
+C 165 MY T 560 972; 
+C 111 MY T 672 108; 
+C 111 T 176 324; 
+C 111 MY T 1024 972; 
+C 106 MY T 0 972; 
+C 105 MY T 0 108; 
+C 27 T 0 324; 
+C 96 MY T 0 540; 
+C 119 MY T 176 972; 
+C 128 T 224 324; 
+C 111 MY T 208 540; 
+C 7 MY T 912 972; 
+C 55 T 0 2052; 
+C 55 MY T 352 3132; 
+C 149 MY T 224 972; 
+C 160 T 272 324; 
+C 156 MY T 256 540; 
+C 63 MY T 384 1836; 
+C 63 T 384 1620; 
+C 63 MY T 384 1404; 
+C 63 MY T 624 3132; 
+C 63 MY T 352 2268; 
+C 63 T 352 2484; 
+C 63 MY T 352 2700; 
+C 63 T 352 2916; 
+C 151 T 112 2052; 
+C 12 T 192 2052; 
+C 136 T 256 2052; 
+C 12 T 304 2052; 
+C 120 MY T 1136 2268; 
+C 31 MY T 64 1836; 
+C 31 T 64 1620; 
+C 31 MY T 64 1404; 
+C 87 MY T 608 1836; 
+C 87 T 608 1620; 
+C 87 MY T 608 1404; 
+C 150 MY T 448 1836; 
+C 150 T 448 1620; 
+C 150 MY T 448 1404; 
+C 19 T 0 1188; 
+C 19 T 1440 1620; 
+C 83 MY T 1328 1404; 
+C 101 MY T 352 1836; 
+C 101 T 352 1620; 
+C 101 MY T 352 1404; 
+C 132 MY T 0 1836; 
+C 132 T 0 1620; 
+C 132 MY T 0 1404; 
+C 132 MY T 0 3132; 
+C 101 MY T 464 3132; 
+C 32 MY T 32 2268; 
+C 32 T 32 2484; 
+C 32 MY T 32 2700; 
+C 32 T 32 2916; 
+C 101 MY T 320 2268; 
+C 101 T 320 2484; 
+C 101 MY T 320 2700; 
+C 101 T 320 2916; 
+C 35 MY T 0 2268; 
+C 35 T 0 2484; 
+C 35 MY T 0 2700; 
+C 35 T 0 2916; 
+C 31 MY T 64 3132; 
+C 63 MY T 688 3132; 
+C 139 MY T 496 3132; 
+C 94 MY T 544 2268; 
+C 94 T 928 2484; 
+C 94 MY T 544 2700; 
+C 94 T 544 2916; 
+C 139 MY T 416 2268; 
+C 139 T 416 2484; 
+C 139 MY T 416 2700; 
+C 139 T 416 2916; 
+L chkBoundary;
+P {gdsprop{30{CELL_BOUNDARY_POLYGON}}}
+0 3240 
+1584 3240 
+1584 0 
+0 0 
+;
+DF;
+E
